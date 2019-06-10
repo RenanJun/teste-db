@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6803" started-at="2019-06-10T17:31:10Z" finished-at="2019-06-10T17:31:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6803" started-at="2019-06-10T17:31:10Z" finished-at="2019-06-10T17:31:17Z">
+      <class name="org.br.curso.tests.DBTests">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="setup" is-config="true" duration-ms="2831" started-at="2019-06-10T17:31:10Z" finished-at="2019-06-10T17:31:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testInsercao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testInsercao()[pri:1, instance:org.br.curso.tests.DBTests@4f936da8]" name="testInsercao" duration-ms="2398" started-at="2019-06-10T17:31:14Z" finished-at="2019-06-10T17:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsercao -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="teardown" is-config="true" duration-ms="7" started-at="2019-06-10T17:31:16Z" finished-at="2019-06-10T17:31:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testInsercao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="setup" is-config="true" duration-ms="1" started-at="2019-06-10T17:31:16Z" finished-at="2019-06-10T17:31:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testAtualizacao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testAtualizacao()[pri:2, instance:org.br.curso.tests.DBTests@4f936da8]" name="testAtualizacao" duration-ms="266" started-at="2019-06-10T17:31:16Z" finished-at="2019-06-10T17:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAtualizacao -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="teardown" is-config="true" duration-ms="2" started-at="2019-06-10T17:31:17Z" finished-at="2019-06-10T17:31:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testAtualizacao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="setup" is-config="true" duration-ms="2" started-at="2019-06-10T17:31:17Z" finished-at="2019-06-10T17:31:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testExclusao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testExclusao()[pri:3, instance:org.br.curso.tests.DBTests@4f936da8]" name="testExclusao" duration-ms="186" started-at="2019-06-10T17:31:17Z" finished-at="2019-06-10T17:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExclusao -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.DBTests@4f936da8]" name="teardown" is-config="true" duration-ms="1" started-at="2019-06-10T17:31:17Z" finished-at="2019-06-10T17:31:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.DBTests.testExclusao()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ffb3598]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.br.curso.tests.DBTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

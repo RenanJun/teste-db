@@ -1,0 +1,1 @@
+{"uuid":"8c13eead-a5d3-4d81-942f-a415d22f4ca9","name":"org.br.curso.tests.DBTests.setup","description":"","start":1560182843566,"stop":1560182844834,"children":["0bc80dec-d430-49ce-b164-b6ee9c5e2ba4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1560182843566,"stop":1560182844834}]}

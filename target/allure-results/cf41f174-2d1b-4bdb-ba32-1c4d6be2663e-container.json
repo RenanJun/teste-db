@@ -1,0 +1,1 @@
+{"uuid":"cf41f174-2d1b-4bdb-ba32-1c4d6be2663e","name":"org.br.curso.tests.DBTests.teardown","description":"","start":1560182678186,"stop":1560182678187,"children":["c62d1b56-cb68-48b1-804b-f8f0e603cd2c"],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","start":1560182678186,"stop":1560182678187}]}
